@@ -1,7 +1,7 @@
-# Language Learner Companion App
+# Language Learner Companion App (WIP)
 
 ## Overview
-Hello, welcome. The **Language Learner Companion App** is a language-learning platform aimed at helping users enhance their listening, speaking, and vocabulary skills. Built using a **Java backend** and **Angular frontend**, the app is **Dockerized** for easy deployment and will be hosted on **Microsoft Azure**. It integrates **ChatGPT** to provide personalized conversation practice, helping users improve their language abilities interactively.
+Hello, welcome. The **Language Learner Companion App** will is a language-learning platform aimed at helping users enhance their listening, speaking, and vocabulary skills. Built using a **Java backend** and **Angular frontend**, the app is **Dockerized** for easy deployment and will be hosted on **Microsoft Azure**. It integrates **ChatGPT** to provide personalized conversation practice, helping users improve their language abilities interactively.
 
 ## Features
 - **Listening Practice**: Audio-based exercises to improve listening comprehension.
